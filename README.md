@@ -1,1 +1,1 @@
-May 2024: I'm currently learning [Complete A.I. Machine Learning and Data Science: Zero to Mastery](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/) by [Daniel Bourke ](https://github.com/mrdbourke)
+**May 2024:** I'm currently learning [Complete A.I. Machine Learning and Data Science: Zero to Mastery](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/) by [Daniel Bourke ](https://github.com/mrdbourke)
